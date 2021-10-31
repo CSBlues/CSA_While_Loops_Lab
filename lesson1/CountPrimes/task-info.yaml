@@ -3,16 +3,14 @@ files:
 - name: src/Task.java
   visible: true
   placeholders:
-  - offset: 23
+  - offset: 124
     length: 213
     placeholder_text: /* TODO  Write the countFactors(int val) method. */
-  - offset: 240
+  - offset: 341
     length: 86
     placeholder_text: /* TODO  Write the isPrime(int value) method. */
-  - offset: 330
+  - offset: 431
     length: 230
     placeholder_text: /* TODO Write the countPrimes(int n) method. */
 - name: test/Tests.java
   visible: false
-- name: src/TaskRunner.java
-  visible: true

@@ -1,6 +1,9 @@
 
 public class Task {
-  //put your task here
+    public static void main(String[] args) {
+        // Manually test your code here.
+        sumOdds(5);
+    }
   public static void sumOdds(int userInput) {
       int counter = 0;
       int sum = 0;

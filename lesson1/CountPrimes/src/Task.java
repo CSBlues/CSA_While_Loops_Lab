@@ -1,4 +1,8 @@
 public class Task {
+    public static void main(String[] args) {
+        // Manually test your code here.
+
+    }
 
   public static int countFactors(int val){
       int n = 1;

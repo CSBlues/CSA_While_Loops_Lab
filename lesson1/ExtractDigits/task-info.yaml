@@ -3,10 +3,8 @@ files:
 - name: src/Task.java
   visible: true
   placeholders:
-  - offset: 22
+  - offset: 115
     length: 151
     placeholder_text: /* TODO  Write the extractDigits(int num) function. */
 - name: test/Tests.java
   visible: false
-- name: src/TaskRunner.java
-  visible: true
