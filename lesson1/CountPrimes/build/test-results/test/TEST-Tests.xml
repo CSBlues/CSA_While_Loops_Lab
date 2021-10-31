@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-28T01:08:55" hostname="Scotts-MacBook-Air.local" time="0.003">
+  <properties/>
+  <testcase name="testIsPrime1" classname="Tests" time="0.001"/>
+  <testcase name="testIsPrime2" classname="Tests" time="0.0"/>
+  <testcase name="testCountPrimes" classname="Tests" time="0.0"/>
+  <testcase name="testCountFactors" classname="Tests" time="0.0"/>
+  <testcase name="testCountFactors2" classname="Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

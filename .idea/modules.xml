@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/While_Loops_Lab.iml" filepath="$PROJECT_DIR$/.idea/modules/While_Loops_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/CountPrimes/While_Loops_Lab.lesson1-CountPrimes.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/CountPrimes/While_Loops_Lab.lesson1-CountPrimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/CountPrimes/While_Loops_Lab.lesson1-CountPrimes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/CountPrimes/While_Loops_Lab.lesson1-CountPrimes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/CountPrimes/While_Loops_Lab.lesson1-CountPrimes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/CountPrimes/While_Loops_Lab.lesson1-CountPrimes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/ExtractDigits/While_Loops_Lab.lesson1-ExtractDigits.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/ExtractDigits/While_Loops_Lab.lesson1-ExtractDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/ExtractDigits/While_Loops_Lab.lesson1-ExtractDigits.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/ExtractDigits/While_Loops_Lab.lesson1-ExtractDigits.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/ExtractDigits/While_Loops_Lab.lesson1-ExtractDigits.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/ExtractDigits/While_Loops_Lab.lesson1-ExtractDigits.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/SumthingOdd/While_Loops_Lab.lesson1-SumthingOdd.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/SumthingOdd/While_Loops_Lab.lesson1-SumthingOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/SumthingOdd/While_Loops_Lab.lesson1-SumthingOdd.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/SumthingOdd/While_Loops_Lab.lesson1-SumthingOdd.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/SumthingOdd/While_Loops_Lab.lesson1-SumthingOdd.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/SumthingOdd/While_Loops_Lab.lesson1-SumthingOdd.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/While_Loops_Lab.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/While_Loops_Lab.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/While_Loops_Lab.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/While_Loops_Lab.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/While_Loops_Lab.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/While_Loops_Lab.util.test.iml" />
+    </modules>
+  </component>
+</project>

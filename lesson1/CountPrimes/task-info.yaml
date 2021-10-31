@@ -1,0 +1,18 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 23
+    length: 213
+    placeholder_text: /* TODO  Write the countFactors(int val) method. */
+  - offset: 240
+    length: 86
+    placeholder_text: /* TODO  Write the isPrime(int value) method. */
+  - offset: 330
+    length: 230
+    placeholder_text: /* TODO Write the countPrimes(int n) method. */
+- name: test/Tests.java
+  visible: false
+- name: src/TaskRunner.java
+  visible: true

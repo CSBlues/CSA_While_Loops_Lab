@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":lesson1-SumthingOdd" external.linked.project.path="$MODULE_DIR$/../../../../lesson1/SumthingOdd" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="While_Loops_Lab" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../lesson1/SumthingOdd">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../lesson1/SumthingOdd/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../lesson1/SumthingOdd/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../lesson1/SumthingOdd/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

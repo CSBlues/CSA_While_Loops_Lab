@@ -1,0 +1,134 @@
+{
+  "course_version" : 1,
+  "summary" : "Java course.\nCreated: Oct 27, 2021, 4:52:04 PM.",
+  "title" : "While Loops Lab",
+  "programming_language" : "JAVA",
+  "language" : "en",
+  "course_type" : "PyCharm",
+  "vendor" : {
+    "name" : "Laforests"
+  },
+  "items" : [
+    {
+      "title" : "lesson1",
+      "task_list" : [
+        {
+          "name" : "SumthingOdd",
+          "files" : {
+            "src/Task.java" : {
+              "name" : "src/Task.java",
+              "placeholders" : [
+                {
+                  "offset" : 46,
+                  "length" : 43,
+                  "possible_answer" : "6J072/lcpPGdQoX8RHSjNTyDcVm2fnXFtV1WYySqwr96gdEBh/xj8s9jOGZ8jYcGknl+6lewH4HQwp4AnHYGY5gzWLD67QTgKFodREI9Ie9JqmAd4BEI+d3ux+4gwEYdeLgvWuOd706E/MA0zGLZ740YFdLuLfZ+mEsKHA9TSswYUtlfBN4htUmXzBYkEGck9J6CqRJs+E18+cfo4FVdoXo5ZcBLzdBwuWFLbNXJ1n7+WBZy0uQSsnIXQA3JKv46tZw2XLpgZEmIPSt2Qy6vwWjZifc/8JtbYx2JdbaqXlvz5rZDwLPmE6VSJGeIA9Sk6XshiH9r/XB6RpTWBSBDKajm0YegsXFATgxmWsKc/7Y=",
+                  "placeholder_text" : "/* TODO Write your sumOdds function here.*/"
+                }
+              ],
+              "is_visible" : true,
+              "text" : "m+sPKlQdgVFkA7vgKpUlHpctDVz8mHzla3YIyPAMO3w30INKUQuNre5eEPpTO1DRcZn+ur29eAtNgpWbwsyewS5hhnqUnBu/31IsjpwU7V3GWX2CprLeOvXDB/kKq0kb"
+            },
+            "test/Tests.java" : {
+              "name" : "test/Tests.java",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "ITs8Nv8EH6QWJG5nufD7nEsEPHevjd6ZOkKdl5CNK3W6mVIsPg0pc7tfpvkrTpztYdJIeGfjeDHHYlCn0ZGL9Ynbrjjh2SHcS7HUevX8JcXqjsQHVXgoltopgSYkL46ig+UckeIwTg1Svq4HNKBJowUUdpSrnt44feJRI0wbFp+gXHI83Vw8lh2Am88944y/BUtx2nujzFTyGWUyDOWJscRVnU+NY9R+OiV+lQxkvO0PIQ6D0mWfWSeOqAchurIs9VC+aGRYk34/IW+vN9nb9dRySZk/svu/ebNmBU05KGMmjXzyCd1kX3pXfmMwo4hSAl3ndvKccXPq/N/Zg/b4h553hPXzmxEgJRJMwTB3lpdywiiMIGEAildKR/HQDOdCabv8U8f69UgvSb+oDac6wF2lyH4vbBp0Da43uN4jQr+8AbinTpG4MpOfI0aJWzYImTQb4oS9CmaZ3wOLRsSJimxPKa52detzFzypyg/iU/pfzUaDKLaLeHlsDQkeGKwRNNMjlBhecGjdh1VXVQM127NiqNHfFezt/eLVD5Jal5Qs/rDu99bpulyNZ5M1VE7rZ1j7Mfz5Rl1aNfl2ebE0CIOtax+5FCG6zcafQsy0axS+ZYQjAjlc50Ox6gi3Z1fOpnJR7v2mYUYeGJ9R32ssb+6FumO88LzEgM8xSGvTb1C1u+NGNID2ynsTRakn0/PDlZ260PNNdsVS2ePx+sFLRsD0KD2322up59JS3AuPanZWZ+aNwH4zVcEBnLFPP0DW1zG1winvfXraslBYSIVZhqusypVODIiA+uqR8qOkV29d2o/TCgW5EEWY4iVpgWvwPqAZFxb6MMngSeF4xUSZGg3KG7DgP/dIHF0KRKAUDdDpqzTou8Sy5yxSJswbx0Jc4A4oKSsIn4uREWCrsSNd+PMj32pIu+YMWueglbK6y6znDIze/BorHZYX1AIYjUte0tNWcem1zv5s/UsDL/gsTJcKYTAWJvvRKnu/YzH6FiD5uA60MYNmQAUF8X0Gx/DdItMNDItcFeKjdylWyEpPH3YopNQE1Dz4BtdbYSxJ6T/uYNgXUNFBAIqN4raYShuWgbocc1dC96RSYYAWVND8jE3o+4gcYVp1sAHMSKO1l1sSbHaHEWgJGmt3EFdZCc0ks/K+KX0I17ftkiXMc0wFxJXr4Dm8lZNeZVJD980YwGAXKDSZuEMvB1bW4tesgV/5gdmo0aosk4u1RHppj3tKo9kgstfcPQ4pVItLhoUr7BzOsGyaZDfs+loI/nVh3fqBEuh6Rnaya286nvxKNxB1TAWyF6UEjcHrL3L5d3XKfYnRmCg4k8aJjNZleyt5QZWld916+SJDlBVmfDZdZYnf4W5ea3JzTr800sNWnUFNzNhYBPxeQNdLh+heqV3b6Eq6LNlq9XJfZ/QisEOC9Oxb8hpmTA/33AxmtMeL1cqMI1a59L54qAF+LSmofL06lQZhTJkrokz4B0dq+9/N8R/RsOTRNH264tk6NHtN4NW/OtLApBmgXm2TKLnyVs7+exsMwxyeJVugukMSQScVwrqScwBIFzt5THHt/HuTuqADmWcqEa2kwgSsRD+B9Hhnhb2fhNFQYPooE/cpLh8K86TqB1jN0ZRN/ttdAhgfcFmLUOfozCg9oVyyL98WphCoZGhfx26v6ZEqMpU6ImCWS86SZJjWPfX++cSpKsI8hU1BnBzqB25vXG2OgV1kXCy63Odqxyx968fjE+/g2TbQ8/m42MujVBCswoRnzXjnnCbPMFSFYufYS14QXhuTMSopp002CYukFn2gePtSFdsaLQLDD42gDp1oCwDEBnL3I4KxHRafDTxg/IhtC8iVkYLMKJV7"
+            }
+          },
+          "description_text" : "# Sumthing Odd\n\nWrite a static method named `sumOdds(int num)` that takes in a number and prints out the sum of the **odd** numbers up to and including the number.\n\n### Examples:\n```commandline\nsumOdds(5) --> 9\n\nsumOdds(6) --> 9\n\nsumOdds(20) --> 100\n```",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        },
+        {
+          "name" : "ExtractDigits",
+          "files" : {
+            "src/Task.java" : {
+              "name" : "src/Task.java",
+              "placeholders" : [
+                {
+                  "offset" : 22,
+                  "length" : 54,
+                  "possible_answer" : "SOYYgnQY2iIoXUYIRqUKc5brrF8YyvpHHEw+OVYeP8b/OdFgewOxubpCw6+DMoC+578ALVNHTaRArJmaHF2PMXy0O8BdL8loLd23YLiWSG7Mfa9uWGhKDzdUBFswfxAVe+8PCuLS6YTTDoXTyJofsFHME3LeGYftgtNfF4NbKuZZmxjHzZIcGM6ZG0+wTvQ/qIs+vyHBt4EV/l8HHgPG5Q==",
+                  "placeholder_text" : "/* TODO  Write the extractDigits(int num) function. */"
+                }
+              ],
+              "is_visible" : true,
+              "text" : "WEJEkhpCAL5HUFSlR3wpP0fWNeWzcCNK+CtlfpGEuC5NMVqgR96/+uwrxkZkgLXXxTvb/hhZY/QvFQojGSlNXhx7DaSNhBdd8DWqIxNdHOg="
+            },
+            "test/Tests.java" : {
+              "name" : "test/Tests.java",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "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"
+            },
+            "src/TaskRunner.java" : {
+              "name" : "src/TaskRunner.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "WEJEkhpCAL5HUFSlR3wpP4J9IJb8meMzsQFaUr9A/9cbYX5wxZPCSOqsu6RdC2Dcg/YcbNZtK9F/8hqclwyQd7GwbiO5RJAnHnGzye/GrGqMmgF1D/o3iD3V73UBfpPU"
+            }
+          },
+          "description_text" : "# Extract digits\nWrite a static method called  `extractDigits(int number)`. The function should print out each digit starting from the last digit.\n\n### Example call:\n```java\nextractDigits(3457);\n```\n### Example Output:\n```java\n7\n5\n4\n3\n```\n\n\n",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        },
+        {
+          "name" : "CountPrimes",
+          "files" : {
+            "src/Task.java" : {
+              "name" : "src/Task.java",
+              "placeholders" : [
+                {
+                  "offset" : 23,
+                  "length" : 51,
+                  "possible_answer" : "8T148VNz5yQBV7ZqbYzrM2Xt1Z6n8MyQ6D/P0cJMpToM06ttwcULbM+J97GU4xxPWI8C4niwGiC0HhBsHA5lAA1/WdC0Cj3z/xvtHNkCTaXA51SnLvgalNu5vzrPjncRBnx1GjPSrQh//IiJG3BkB7KhatwYLJFb0j/1gTdQa1L1uR98wdn/TsMTbVk6lVVV3Ky0QgiB8BpwGXeREDAfWaFhvZL8+X0kboTyh51fvHixPyeuN1RR/vaw9EH2RBWfcaCZGO+IYs90jP6d30Lp3TiJXxzsLTzyLic/wfAF6so=",
+                  "placeholder_text" : "/* TODO  Write the countFactors(int val) method. */"
+                },
+                {
+                  "offset" : 78,
+                  "length" : 48,
+                  "possible_answer" : "WUeQ7LZ2Q2QA4LimKUhQPJPSg9hzq6QC9JEXPQifPbODi8OR5+pHm78p5jhBRiE2Dwx2EXU1nivXXqpd3CHx/pERUNc1DDBVM4WI7oI1rCLhAbqNYOV03BO03xeBNPZF",
+                  "placeholder_text" : "/* TODO  Write the isPrime(int value) method. */"
+                },
+                {
+                  "offset" : 130,
+                  "length" : 47,
+                  "possible_answer" : "8T148VNz5yQBV7ZqbYzrM0ToXFgPWUyBp6+DgXjGl5Bn0rmKxRSGBt5mksBUjLY2X19y4XmQiHV9hfKgpTzC/1c34tn9UTfK2Dn13Vd3nWENGnHQXdvRsphSxfv/Ch5i6kYz/J8Wj9FJTqAntsjbPAidv3Fh3pGdCgxJf08GD7G0OJn2Dg0Q3tAH3s8uBpU1+kZFejdSfkRhQ3l2crWq7tiiiXU0KF86sTxDfuiJF4m5ZQOKgb9EQA6WH0uoHqu0kzsqTLeKv9GNlTApY3um6saJoSIaAh2+8j7cUQydzm1ZlXy0Pka2zaxQgJG7rW8l",
+                  "placeholder_text" : "/* TODO Write the countPrimes(int n) method. */"
+                }
+              ],
+              "is_visible" : true,
+              "text" : "WEJEkhpCAL5HUFSlR3wpP4ygBSVrOt6nE0nXvjdtWANYerqAhx++3NU839LdzKyhtAPkPTlx7/03u4Vygi6sVFF9dd7sIu9cH5GSWBOmNy5DGBvYVVRu1w2bZW4iouyBxyV72+kcofHhrxpl1zzYOTW0/Kz0GezE3jOXMvIArvxcr5W7ZQ6oyaTVVnMuDFxoJGemU1wjt1xztTGN7DT3Nu6JVzyVafCZCFuwL0qkO7TeFYrj25wMYaRNWXLrcJ+v"
+            },
+            "test/Tests.java" : {
+              "name" : "test/Tests.java",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOzyNHGqghbkq1kO1chMNERKIVtu6Wa2mQTUeXLeRxui7TjdtuSYfXVcmhig1a0OyQrGLYgqAwJFvy5tIUj0gUoh70qr+gOUj7Pca7ABf7kiaqneFy75oSZWbljqcyHGvxUN0UOBHFhi7nypqOyKwwdtHbZ0SR17aZo6Bebqfz64oWs8fDMqEvX0YtMM5/gEICWV1vSsaIqxQP0mYP9bI0AjqY2qw+/+tplhj37zQQ8PpRvBglfM3mBBISrmSxgYNgahgM+mObem7ZCSdljKMEVj4fhsvBrYrUgZCBzTf0CzZg9b3GikrJurDxbP5S3xFPO72grYX/vWO4epBmdtrGn5VaeDyV4lIKyzHlvGTGBKkhMIbuQyfvVb2AM6bzltG/hnbFGPoF3KqINbJH4lfCruEZCSmRprPrVHZ+j0R8NuRxJaxqQEW3Mhz6c9yJQYMKfl4reQH5cd5BqO1jWGbou3hB5z/tB1ZKy9NPy61sxOkWfNWTJarnhhBj8+EaHFfvgL+JnuPcKIIG3J/Xen8rbEqKVkrxjKLW6sD38y3FK1i1YYMiV7jrO5AoqLJ9ADsZhDYH3QbqNqBOGr832illkzJlPLEl3XeksKgE+1wawB3M5KhPF9I9/ukLZqdW7ms3HWX8rGNmCFUhNzRQLoSX7NydhX4Me/IjbVGXDMJSe4syONde61qRma2VBKL5oxCS9Leb9RZjsEWdB4xJd+qIqGxl7iJLwZT9j4qpH6qK0ag5R/fAY4cJlqAau+a8vm/2I+zLbapH6CyKv3HrScRwV7qxkvZHpjDZ7AkW/QxLCri7dc0yEAcfzdHeGw3rPYfAV63tABdOAXb4N8lrZmlQsAIAhg3QX0qeM8XPNw9jCmdBZlZ4QMuvarXU7g+mfJ8oCYsFGx5jhJrlqF/6tOhEE/pUAzAz2utu9273kQDu0e8Z6m00MFRHmRIpKeSQ3FvyLBc2ms77c4o2H2RXy/59mw0KVcs88w/MreItbCSO4LsxHGkzjwPW+h0ORKV8m2Xn0SZ49vlwKL9i/UoZ1e0Ziqg+Xfvx8Yu9ivvUdgFrod8/Vvu6utrvVmpdPEcg4BDMrUec8FsCW8npBNPcQVYBNZ6aKJEOM+UIr9265Cxf7orhCx0OhdqUd6yLBoscligGdwSx6i0XJ0Ir977uAIUP7OxzSnBF45NTkSXkDh68+0qUrVzr7iL6xuigJdADEC/mknJcEP0/GpFVYt3qpjU+GRedtDOBAdNC822FFl/ZksJlMhzYSm7yuAg7SfMvNghFZww/HtxIdYKM/ki+txVL8LnD2Sy37q8kfzFJyaOAvvU32ShvYaCQhKAoqqAKdui9NVI54h9kjiigwST3jFXAjRxbLot/6f+zexyKLqxrKwx0WOXa+YMVaWFCdRIS0D9p0PjgQkp1e+QwKkTXnMNiE1D/FpRrdJht11Smij9CW8c="
+            },
+            "src/TaskRunner.java" : {
+              "name" : "src/TaskRunner.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "WEJEkhpCAL5HUFSlR3wpP4J9IJb8meMzsQFaUr9A/9cbYX5wxZPCSOqsu6RdC2Dcg/YcbNZtK9F/8hqclwyQdxHcP5k4SjqJQJjbRXSK2OO6rjlCyVb5CO28ZykpEdtm"
+            }
+          },
+          "description_text" : "# Count Factors\nWrite a static method named `countFactors` that accepts an integer parameter and returns the number of factors. \n\n### Example Call:\n```java\ncountFactors(24);\n```\n### Example Output:\n```commandline\n8\n```\n# Is Prime\nWrite a static method named `isPrime` that accepts an integer parameter and returns a boolean whether or not the number is prime. `isPrime` **must use** `countFactors`.\n\n### Example Call:\n```java\nisPrime(27);\nisPrime(47);\n```\n### Example Output:\n```commandline\ntrue\nfalse\n```\n# Count Primes\nWrite a static method named `countPrimes` that accepts an integer parameter (n) and returns the number of primes between 2 an n. `countPrims` **must use** `isPrime`.\n\n### Example Call:\n```java\ncountPrimes(24);\n```\n### Example Output:\n```commandline\n9\n```\n> *Note: countPrimes(24) returns 9 because 2,3,5,7,11,13,17,19,23 are all primes.*",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    }
+  ],
+  "additional_files" : [
+    {
+      "name" : "build.gradle",
+      "placeholders" : [ ],
+      "is_visible" : true,
+      "text" : "QPBhzFWPTdFGVSD7ERp/L1xPNFwrMnH4/GT/8zHnQR4I+3EfQDKpyzqfaNEht5Nv4qS1K10kltmHaRg9pPjmKTFYavj4oPWzHWl6QLDUuCR+vErncsm8/fjCxrVG8u2HW0Kl4po2UIYSqHkjW21ukFObrSxU8+uBCT0pE4Qurq/U4KO8205v/whjgoSES5bq8+apEO0aWFxPp7SYOHGNu5ZJkPldr08q+2vNWsaXhwV0Hrg7JWZvjkmwMBcRc+53imk7LCp8Y3yVfJpzXwEHkGj1pBz96ueG4CbppEPUcH2nrVdM9nI+XVrgne9ZS4RXKTTYo+GJEbV7zHeMI2Y68s3erciMOR+JdpTtGIe0ejBG9aWExC2MRWpZrxkgZEGyNE1W/SrVQO8pAE0AsqlrDmtCjZnnnecIPCsnxGTbOzd3EEUf0xWzFmGaU7eu1d0k/Q021F+I/DkEcXOwwRaJUYkZ8Q7KN1vS6tccgWHZ//oHW3yu2NNPGnIW9WlNRs17v1NE0ZjmBBTgPY6bP+1V1ZlykagHdVS6DRvoJkGjobxryaLSOGVthS7bV6GwWm7Iablccd+kYJr9WzlLsXuCgXAW2lMRnoh/HHbzTZH8tyLpoxlmqXWjVpJlnvGmjmKubNaSdurfsWmz7akBOLp2pE61Ecf6doRZAe/L9E+V0ksaqyHDC5mgUeuavYlFBXKxsbFBKsnPQSxy0fVdHIqhMKMZIO9skA+a8/cxusObX3xq5nU789b1V4Htcye88Sl7akddn0/LJHAQyLseLoH5WkIpkXiaGOwI7rWz7m4laUJO/7nIj1wxrxDVa6uTLYWHpc+XLYsftnq9OH/jukB+qRp3FCFoY4ziCEDD02UYJYwRZZbPHcFPMhLjsA8+nxZv/RVg760xjruvE9bFvjRm3TgSJFCqxlrLqlCL7IxIFXYZ5Qaq3G1o5FIZtabrai7z1IZra/OunBOASESmXorn97pc59EQ/kRBZRjVP4C4tdy6K3wMpvVswyxAxW9IceodPR1OO1z6KUbl9L9XySHEzkf9NqL8vQYDiLs+WNo01GI5HAul80IsMsGVAXE3cSaO4IPx6CV1DDlVHea7e2isi/Ds7PtCb6PSO42FJ0KjH4pnrvLh8srfT//AfnOp9Bo6NQwC1O2i1z0WB3sH/xpy/F25xx8nWCFjLo0JVeGgf0Tmv8fVsduj4JzHquT1YcrxgIRcFMcIPlSvXiSHOysGVpLOep7eENHKwHI/2XVgvwXxgGLqltz8vxvT9t97N8fvFqiV1cL/V4GWcLC4l6RuJ165JoUd+QH/Y7N1sI3ls02I0gGeSdOagrcp2x/lxda2r+mH9zKo/NvsLy/bN9+aZqg+ObAT1lwLf5hJD9ZQDtXaHDx8diy/3nunNDm9GtHBkhLjt7T5aIXYdL08Vghc2XQGripasufk60rKvAw9YH4JxssnvwKdDu/9KHP5wzmWPr4LbIbMxsuUeo+KvIKlY43goOw6quEu9sr3/DRoQasHtTAssINE3VDqsGaA9uCDaTJRxWZHMi1BSEKDrbtnoQ5SK0R6Dx/GT+GYvJfj96g="
+    }
+  ],
+  "version" : 12,
+  "edu_plugin_version" : "2021.9.1-2020.3-2224"
+}

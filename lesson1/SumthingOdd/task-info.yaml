@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 46
+    length: 268
+    placeholder_text: /* TODO Write your sumOdds function here.*/
+- name: test/Tests.java
+  visible: false
